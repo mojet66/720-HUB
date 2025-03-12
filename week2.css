@@ -1,0 +1,30 @@
+h1 {
+  color: blueviolet;
+  font-style: oblique;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 40px;
+}
+
+.lorem {
+  color: chartreuse;
+  font-family: Arial, Helvetica, sans-serif;
+}
+span {
+  color: aqua;
+}
+#main-heading {
+  color: brown;
+  font-size: 40px;
+}
+
+.box {
+  height: 300px;
+  width: 500px;
+  background-color: blue;
+  padding-left: 100px;
+  padding-block: 50px;
+  border-color: black;
+  border-width: 5px;
+  border-style: solid;
+}
